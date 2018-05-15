@@ -1,5 +1,7 @@
 Instructions
 
+Use "make run" to run the program.
+
 Use the "Draw" mode button to begin drawing. Select drawing type (first dropdown) and stroke thickness (second dropdown).
 Next, choose fill and stroke colours.
 After drawing shapes, use the "Select" mode button to select shapes and manipulate them. After selecting a shape, its fill and stroke colours,
